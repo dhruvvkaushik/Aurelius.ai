@@ -247,6 +247,6 @@ st.markdown("---")
 st.markdown("""
     <div style="text-align: center; padding: 2rem 0; opacity: 0.8;">
         Made with ❤️ using Streamlit | 
-        <a href="https://github.com/your-repo" target="_blank" style="color: white;">View Source Code</a>
+        <a href="https://github.com/dhruvvkaushik/Aurelius.ai.git" target="_blank" style="color: white;">View Source Code</a>
     </div>
 """, unsafe_allow_html=True)
